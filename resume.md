@@ -50,6 +50,7 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
     <em> </em>
     September 2019 – Present
 </p>
+<p>
 <ul>
      <li>
         Aid in cleaning data for nonprofit organization
@@ -68,6 +69,7 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
     <em>Intern </em>
     August 2018 – Present
 </p>
+<p>
 <ul>
      <li>
         Play an integral role in the launch and management of Pitt Commons
@@ -89,6 +91,7 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
     <em>Busser </em>
     May 2018 – August 2018
 </p>
+<p>
 <ul>
      <li>
         Collaborated with a team of 30-40 busboys, servers, and managers to
