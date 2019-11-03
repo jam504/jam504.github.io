@@ -22,7 +22,6 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
 </p>
 
 <u>RELEVANT COURSEWORK</u>
-<u></u>
 <ul>
     <li>
         Introduction to Data Analytics
@@ -39,15 +38,14 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
 </ul>
 <p>
     <u>EXPERIENCE</u>
-    <u></u>
 </p>
 <p>
-    <strong>Office of the Provost           </strong>
-    Pittsburgh, PA
+    <strong>Office of the Provost </strong>
+    <pre>Pittsburgh, PA </pre>
 </p>
 <p>
-    <em>Intern          </em>
-    August 2018 – Present
+    <em>Intern </em>
+    <pre>August 2018 – Present </pre>
 </p>
 <p>
 <ul>
@@ -64,12 +62,12 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
 
 </p>
 <p>
-    <strong>Perry Hilltop Citizens Council          </strong>
-    Pittsburgh, PA
+    <strong>Perry Hilltop Citizens Council </strong>
+    <pre>Pittsburgh, PA </pre>
 </p>
 <p>
-    <em>Data Management Volunteer           </em>
-    September 2019 – Present
+    <em>Data Management Volunteer </em>
+    <pre>September 2019 – Present </pre>
 </p>
 <p>
 <ul>
@@ -84,12 +82,12 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
 </p>
 
 <p>
-    <strong>The Cheesecake Factory          </strong>
-    Willow Grove, PA
+    <strong>The Cheesecake Factory </strong>
+    <pre>Willow Grove, PA </pre>
 </p>
 <p>
-    <em>Busser          </em>
-    May 2018 – August 2018
+    <em>Busser </em>
+    <pre>May 2018 – August 2018 </pre>
 </p>
 <p>
 <ul>
@@ -105,12 +103,12 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
 </ul>
 </p>
 <p>
-    <strong>Walgreens           </strong>
-    Elkins Park, PA
+    <strong>Walgreens </strong>
+    <pre>Elkins Park, PA </pre>
 </p>
 <p>
-    <em>Customer Service Associate          </em>
-    August 2016 – August 2017
+    <em>Customer Service Associate </em>
+    <pre>August 2016 – August 2017 </pre>
 </p>
 <p>
 <ul>
@@ -125,8 +123,8 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
 </p>
 <p>
     <strong>Phi Sigma Pi National Honor Fraternity, </strong>
-    <em>Vice President         </em>
-    May 2019 – Present
+    <em>Vice President </em>
+    <pre>May 2019 – Present </pre>
 </p>
 <p>
 <ul>
