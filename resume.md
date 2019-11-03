@@ -42,12 +42,33 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
     <u></u>
 </p>
 <p>
-    <strong>Perry Hilltop Citizens Council </strong>
-    Pittsburgh, PA<strong></strong>
+    <strong>Office of the Provost           </strong>
+    Pittsburgh, PA
 </p>
 <p>
-    <em>Volunteer </em>
-    <em> </em>
+    <em>Intern          </em>
+    August 2018 – Present
+</p>
+<p>
+<ul>
+     <li>
+        Play an integral role in the launch and of Pitt Commons website seeing growth of 243% between December 2018 and August 2019
+    </li>
+     <li>
+        Work with diverse team of professionals in organizing long-term projects including university-sponsored grants and new strategic initiatives and directly report to Associate Vice Provost for Academic Innovation
+    </li>
+     <li>
+        Present at the AAC&U Conference on diversity, equity, and student success
+    </li>
+</ul>
+
+</p>
+<p>
+    <strong>Perry Hilltop Citizens Council          </strong>
+    Pittsburgh, PA
+</p>
+<p>
+    <em>Data Management Volunteer           </em>
     September 2019 – Present
 </p>
 <p>
@@ -61,34 +82,13 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
     </li>
 </ul>
 </p>
-<p>
-    <strong>Office of the Provost </strong>
-    Pittsburgh, PA
-</p>
-<p>
-    <em>Intern </em>
-    August 2018 – Present
-</p>
-<p>
-<ul>
-     <li>
-        Play an integral role in the launch and management of Pitt Commons
-        website for thousands of students, faculty and staff members, and alumni
-    </li>
-     <li>
-        Work with diverse team of professionals in planning, managing and
-        organizing other long-term projects including university-sponsored grants
-        and new strategic initiatives
-    </li>
-</ul>
 
-</p>
 <p>
-    <strong>The Cheesecake Factory </strong>
+    <strong>The Cheesecake Factory          </strong>
     Willow Grove, PA
 </p>
 <p>
-    <em>Busser </em>
+    <em>Busser          </em>
     May 2018 – August 2018
 </p>
 <p>
@@ -105,11 +105,11 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
 </ul>
 </p>
 <p>
-    <strong>Walgreens </strong>
+    <strong>Walgreens           </strong>
     Elkins Park, PA
 </p>
 <p>
-    <em>Customer Service Associate </em>
+    <em>Customer Service Associate          </em>
     August 2016 – August 2017
 </p>
 <p>
@@ -125,15 +125,11 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
 </p>
 <p>
     <strong>Phi Sigma Pi National Honor Fraternity, </strong>
-    <em>Vice President </em>
+    <em>Vice President         </em>
     May 2019 – Present
 </p>
 <p>
 <ul>
-     <li>
-        Participate in service, scholarship, and leadership events throughout
-        the greater Pittsburgh area
-    </li>
      <li>
         Aid in the planning and organization of the University of Pittsburgh’s
         first Pre-Professional Greek Coalition
@@ -141,6 +137,9 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
      <li>
         Serve on executive board of fraternity, overseeing the day-to-day as well
         as the long-term goals of the fraternity
+    </li>
+     <li>
+        Head the executive council of 9 chairs as we plan, organize, and run events for the fraternity and Pitt community
     </li>
 </ul>
 </p>
