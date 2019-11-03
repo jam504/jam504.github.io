@@ -1,9 +1,6 @@
 ---
-title: 'STAT 1261/2260: Principles of Data Science'
-subtitle: Homework 5
-output:
-  word_document: default
-  html_document: default
+layout: post
+title: Test Post!
 ---
 
 
