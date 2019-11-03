@@ -38,7 +38,7 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
     </li>
 </ul>
 <p>
-    <a><u>EXPERIENCE</u></a>
+    <u>EXPERIENCE</u>
     <u></u>
 </p>
 <p>
@@ -46,33 +46,39 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
     Pittsburgh, PA<strong></strong>
 </p>
 <p>
-    <a><em>Volunteer </em></a>
+    <em>Volunteer </em>
     <em> </em>
     September 2019 – Present
 </p>
-<p>
-    · Aid in cleaning data for nonprofit organization
+<ul>
+     <li>
+        Aid in cleaning data for nonprofit organization
+    </li>
+     <li>
+        Reorganize database in order to create more efficient queries and data
+        pulling
+    </li>
+</ul>
 </p>
 <p>
-    · Reorganize database in order to create more efficient queries and data
-    pulling
-</p>
-<p>
-    <a><strong>Office of the Provost </strong></a>
+    <strong>Office of the Provost </strong>
     Pittsburgh, PA
 </p>
 <p>
     <em>Intern </em>
     August 2018 – Present
 </p>
-<p>
-    · Play an integral role in the launch and management of Pitt Commons
-    website for thousands of students, faculty and staff members, and alumni
-</p>
-<p>
-    · Work with diverse team of professionals in planning, managing and
-    organizing other long-term projects including university-sponsored grants
-    and new strategic initiatives
+<ul>
+     <li>
+        Play an integral role in the launch and management of Pitt Commons
+        website for thousands of students, faculty and staff members, and alumni
+    </li>
+     <li>
+        Work with diverse team of professionals in planning, managing and
+        organizing other long-term projects including university-sponsored grants
+        and new strategic initiatives
+    </li>
+</ul>
 
 </p>
 <p>
@@ -83,14 +89,17 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
     <em>Busser </em>
     May 2018 – August 2018
 </p>
-<p>
-    · Collaborated with a team of 30-40 busboys, servers, and managers to
-    create an unmatched customer experience and forward the company’s mission
-    statement
-</p>
-<p>
-    · Earned Employee of the Month for excellence in service and standing out
-    as a leader among the staff
+<ul>
+     <li>
+        Collaborated with a team of 30-40 busboys, servers, and managers to
+        create an unmatched customer experience and forward the company’s mission
+        statement
+    </li>
+     <li>
+        Earned Employee of the Month for excellence in service and standing out
+        as a leader among the staff
+    </li>
+</ul>
 </p>
 <p>
     <strong>Walgreens </strong>
@@ -101,8 +110,12 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
     August 2016 – August 2017
 </p>
 <p>
-    · Communicated with both management and customers daily to improve
-    efficiency and enhance customer experience
+<ul>
+     <li>
+        Communicated with both management and customers daily to improve
+        efficiency and enhance customer experience
+    </li>
+</ul>
 </p>
 <p>
     <u>LEADERSHIP AND INVOLVEMENT</u>
@@ -113,40 +126,28 @@ Bachelor of Science in <strong>information science </strong>| Minor in    <stron
     May 2019 – Present
 </p>
 <p>
-    <a>
-        · Participate in service, scholarship, and leadership events throughout
+<ul>
+     <li>
+        Participate in service, scholarship, and leadership events throughout
         the greater Pittsburgh area
-    </a>
-</p>
-<p>
-    · Aid in the planning and organization of the University of Pittsburgh’s
-    first Pre-Professional Greek Coalition
-</p>
-<p>
-    · Serve on executive board of fraternity, overseeing the day-to-day as well
-    as the long-term goals of the fraternity
-</p>
-<p>
-    · Head the executive council of 9 chairs as we plan, organize, and run
-    events for the fraternity and Pitt community
+    </li>
+     <li>
+        Aid in the planning and organization of the University of Pittsburgh’s
+        first Pre-Professional Greek Coalition
+    </li>
+     <li>
+        Serve on executive board of fraternity, overseeing the day-to-day as well
+        as the long-term goals of the fraternity
+    </li>
+</ul>
 </p>
 
 <u>SKILLS</u>
-<table cellpadding="0" cellspacing="0" width="100%">
-    <tbody>
-        <tr>
-            <td>
-                <ul>
-                    <li>
-                        Familiarity with HTML, Javascript, and CSS 
-                    </li>
-                    <li>
-                        Intermediate in Java, Python, R, and MySQL
-                    </li>
-                </ul>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<div>
-</div>
+<ul>
+    <li>
+        Intermediate in Java, Python, R, and MySQL
+    </li>
+    <li>
+        Familiarity with HTML, Javascript, and CSS 
+    </li>
+</ul>
