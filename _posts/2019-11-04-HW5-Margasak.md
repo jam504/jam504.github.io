@@ -1,9 +1,7 @@
 ---
+layout: post
 title: 'STAT 1261/2260: Principles of Data Science'
 subtitle: Homework 5
-output:
-  html_document: 
-    keep_md: true
 ---
 
 
